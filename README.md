@@ -77,3 +77,5 @@ This project is setup in docker to create a separate environment for development
 2- set up env
 3- run the npm start command to start react app inside docker/bookstore-app directory
 
+## screenshots of UI
+![Alt text](/screenshots/book1.png?raw=true "Optional Title")
