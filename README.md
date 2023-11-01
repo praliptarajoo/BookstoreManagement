@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Admin credential for verification
+
+mail id - admin@test.com
+
+## Steps for setup
+
+This project is setup in docker to create a separate environment for development. Dummy data from fake url is fetched and seeded into local db to perform add,edit and delete operation. 
+
+1- Run docker-compose up --build
+2- set up env
+3- run the npm start command to start react app inside docker/bookstore-app directory
+
