@@ -78,4 +78,12 @@ This project is setup in docker to create a separate environment for development
 3- run the npm start command to start react app inside docker/bookstore-app directory
 
 ## screenshots of UI
-![Alt text](screenshots/book1.png?raw=true "Optional Title")
+
+![book1](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/31671f4f-8a4f-4953-a1eb-5d8c3e91a889)
+![book2](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/fd17236a-cd25-4f6e-a50e-3d097a879195)
+![book3](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/3719f89a-d031-4351-ad76-a6afb32f761b)
+![book4](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/5807f881-c73e-4707-8b99-d5e487de6174)
+![book5](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/f46b3777-a7a1-4a6d-b912-241b6e28ff09)
+![book6](https://github.com/praliptarajoo/BookstoreManagement/assets/42381761/eea255ee-2cff-4bf7-ab2d-8cfb8f3b1486)
+
+
